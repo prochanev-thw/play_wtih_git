@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="506f2615-32f6-4072-af29-b9f91aaa21f7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/file_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file_2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +15,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "git-widget-placeholder": "Rebasing main"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="TaskManager">
